@@ -1,4 +1,11 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\APBD10",
+    "\\APBD10\\APBD10",
+    "\\APBD10\\APBD10\\Views",
+    "\\APBD10\\APBD10\\Views\\HelloWorld"
+  ],
+  "SelectedNode": "\\APBD10\\APBD10\\Views\\HelloWorld\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
